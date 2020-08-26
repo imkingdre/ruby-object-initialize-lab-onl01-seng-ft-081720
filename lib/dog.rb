@@ -12,4 +12,4 @@ class Dog
   
 end
 
-Fido = Dog
+fido = Dog.new(pugg)
